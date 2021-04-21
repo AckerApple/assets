@@ -1,0 +1,2 @@
+# assets
+General public storage
